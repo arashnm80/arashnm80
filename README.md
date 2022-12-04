@@ -7,6 +7,9 @@ My main programming language is c++.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashnm80)](https://github.com/arashnm80?tab=repositories)
 
+### My Telegram Channel:
+- [Arashnm80 Channel](https://t.me/Arashnm80_Channel)
+
 ### Telegram bots:
 - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot)
 
