@@ -18,6 +18,6 @@
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
 - email: arashnm80@gmail.com
 
-### give me energy with a cup of coffee☕:
+### Give me energy with coffee☕:
 - https://www.coffeete.ir/arashnm80 (﷼)
 - https://www.buymeacoffee.com/Arashnm80 (dollar)
