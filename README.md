@@ -14,6 +14,7 @@
 - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 
 ### Telegram bots:
+- [Spot Seek bot](https://t.me/SpotSeekBot)
 - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot)
 
 ### How to reach me:
