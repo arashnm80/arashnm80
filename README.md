@@ -19,8 +19,8 @@
 
 ### How to reach me:
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
-- email: arashnm80@gmail.com
+- email: [arashnm80@gmail.com](arashnm80@gmail.com)
 
 ### Give me energy with coffee☕:
-- https://www.coffeete.ir/arashnm80 (﷼)
-- https://www.buymeacoffee.com/Arashnm80 (dollar)
+- [coffeete.ir/arashnm80](https://www.coffeete.ir/arashnm80) (﷼)
+- [buymeacoffee.com/Arashnm80](https://www.buymeacoffee.com/Arashnm80) (dollar)
