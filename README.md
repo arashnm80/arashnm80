@@ -11,6 +11,7 @@
 - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
 - [bing wallpapers](https://t.me/Bingwalls)
 - [GIF Contest Winner](https://t.me/oghlooroghloor)
+- [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0)
 - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 
 ### Telegram bots:
