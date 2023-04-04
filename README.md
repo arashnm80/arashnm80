@@ -9,14 +9,14 @@
 
 ### Telegram Channels:
 - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
-- [bing wallpapers](https://t.me/Bingwalls)
+- [bing wallpapers](https://t.me/Bingwalls) ([source](https://github.com/arashnm80/bing-wallpaper))
 - [GIF Contest Winner](https://t.me/oghlooroghloor)
-- [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0)
+- [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0) ([source](https://github.com/arashnm80/spot-seek-bot))
 - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 
 ### Telegram bots:
-- [Spot Seek bot](https://t.me/SpotSeekBot) (Spotify music downloader)
-- [nm80 dictionary bot](https://t.me/nm80_dictionary_bot)
+- [Spot Seek | Spotify Music Downloader](https://t.me/SpotSeekBot) ([source](https://github.com/arashnm80/spot-seek-bot))
+- [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) ([source](https://github.com/arashnm80/nm80-dictionary-bot))
 
 ### How to reach me:
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
