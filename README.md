@@ -18,6 +18,9 @@
 - [Spot Seek | Spotify Music Downloader](https://t.me/SpotSeekBot) ([source](https://github.com/arashnm80/spot-seek-bot))
 - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) ([source](https://github.com/arashnm80/nm80-dictionary-bot))
 
+### Code Practice:
+- [Quera | Answer to contests & problems (Persian)](https://github.com/arashnm80/quera)
+
 ### How to reach me:
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
 - email: arashnm80@gmail.com
