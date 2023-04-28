@@ -21,6 +21,9 @@
 ### Code Practice:
 - [Quera | Answer to contests & problems (Persian)](https://github.com/arashnm80/quera)
 
+### Other Works:
+- [Python Tutorial for Research Center Students (Persian)](https://github.com/arashnm80/python-tutorial)
+
 ### How to reach me:
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
 - email: arashnm80@gmail.com
