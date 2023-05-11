@@ -19,11 +19,11 @@
 - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) - [source](https://github.com/arashnm80/nm80-dictionary-bot)
 
 ### Code Practice:
-- [Quera | Answer to contests & problems (Persian)](https://github.com/arashnm80/quera)
+- [Quera | Answer to contests & problems](https://github.com/arashnm80/quera) (Persian)
 
 ### Classes:
-- [Python Tutorial (Persian)](https://github.com/arashnm80/python-tutorial)
-- [Programmers Club (Persian)](https://github.com/arashnm80/programmers-club)
+- [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
+- [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
 ### How to reach me:
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
