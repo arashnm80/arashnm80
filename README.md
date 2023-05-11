@@ -23,7 +23,7 @@
 
 ### Classes:
 - [Python Tutorial (Persian)](https://github.com/arashnm80/python-tutorial)
-- [Programmers Club](https://github.com/arashnm80/programmers-club)
+- [Programmers Club (Persian)](https://github.com/arashnm80/programmers-club)
 
 ### How to reach me:
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
