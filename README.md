@@ -20,7 +20,7 @@
 
 ### Youtube Channels:
 - [Arashnm80](https://www.youtube.com/@Arashnm80) - [source](https://github.com/arashnm80/youtube)
-- [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian)
+- [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian) - [source](https://github.com/arashnm80/youtube-persian)
 
 ### Code Practice:
 - [Quera | Answer to contests & problems](https://github.com/arashnm80/quera) (Persian)
