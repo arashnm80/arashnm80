@@ -37,5 +37,6 @@
 - email: arashnm80@gmail.com
 
 ### Give me energy with coffee😉☕:
-- [coffeete.ir/Arashnm80](https://www.coffeete.ir/arashnm80) (﷼)
-- [buymeacoffee.com/Arashnm80](https://www.buymeacoffee.com/Arashnm80) (dollar)
+- [buymeacoffee.com/Arashnm80](https://www.buymeacoffee.com/Arashnm80) (US $)
+- [ko-fi.com/Arashnm80](https://ko-fi.com/Arashnm80) (Euro €)
+- [coffeete.ir/Arashnm80](https://www.coffeete.ir/arashnm80) (IR ريال)
