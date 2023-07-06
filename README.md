@@ -38,5 +38,5 @@
 
 ### Give me energy with coffee😉☕:
 - [buymeacoffee.com/Arashnm80](https://www.buymeacoffee.com/Arashnm80) (US $)
-- [ko-fi.com/Arashnm80](https://ko-fi.com/Arashnm80) (Euro €)
 - [coffeete.ir/Arashnm80](https://www.coffeete.ir/arashnm80) (IR ريال)
+- [ko-fi.com/Arashnm80](https://ko-fi.com/Arashnm80) (Euro €) -> not ready yet, coming soon ...
