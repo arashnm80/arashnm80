@@ -9,18 +9,18 @@
 
 ### Telegram Channels:
 - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
-- [bing wallpapers](https://t.me/Bingwalls) - [source](https://github.com/arashnm80/bing-wallpaper)
+- [bing wallpapers](https://t.me/Bingwalls) -> [source](https://github.com/arashnm80/bing-wallpaper)
 - [GIF Contest Winner](https://t.me/oghlooroghloor)
-- [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0) - [source](https://github.com/arashnm80/spot-seek-bot)
+- [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0) -> [source](https://github.com/arashnm80/spot-seek-bot)
 - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 
 ### Telegram bots:
-- [Spot Seek | Spotify Music Downloader](https://t.me/SpotSeekBot) - [source](https://github.com/arashnm80/spot-seek-bot)
-- [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) - [source](https://github.com/arashnm80/nm80-dictionary-bot)
+- [Spot Seek | Spotify Music Downloader](https://t.me/SpotSeekBot) -> [source](https://github.com/arashnm80/spot-seek-bot)
+- [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) -> [source](https://github.com/arashnm80/nm80-dictionary-bot)
 
 ### Youtube Channels:
-- [Arashnm80](https://www.youtube.com/@Arashnm80) - [source](https://github.com/arashnm80/youtube)
-- [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian) - [source](https://github.com/arashnm80/youtube-persian)
+- [Arashnm80](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube)
+- [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian) -> [source](https://github.com/arashnm80/youtube-persian)
 
 ### Code Practice:
 - [Quera | Answer to contests & problems](https://github.com/arashnm80/quera) (Persian)
