@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashnm80)](https://github.com/arashnm80?tab=repositories)
 
-### Telegram Channels:
+### <a href="https://github.com/arashnm80#telegram-channels"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram Channels:
 - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
 - [bing wallpapers](https://t.me/Bingwalls) -> [source](https://github.com/arashnm80/bing-wallpaper)
 - [GIF Contest Winner](https://t.me/oghlooroghloor)
