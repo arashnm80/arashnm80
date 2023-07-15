@@ -18,7 +18,7 @@
 - [Spot Seek | Spotify Music Downloader](https://t.me/SpotSeekBot) -> [source](https://github.com/arashnm80/spot-seek-bot)
 - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) -> [source](https://github.com/arashnm80/nm80-dictionary-bot)
 
-### Youtube Channels:
+### <a href="https://github.com/arashnm80/arashnm80/edit/main/README.md#-youtube-channels"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channels" height="30" width="40" /></a> YouTube Channels:
 - [Arashnm80](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube)
 - [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian) -> [source](https://github.com/arashnm80/youtube-persian)
 
