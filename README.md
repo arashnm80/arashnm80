@@ -26,7 +26,7 @@
 - [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
 - [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
-### Other:
+### Other Projects:
 - [Stock and Crypto Prices Analysis](https://github.com/arashnm80/stock-and-crypto-price-analysis)
 
 ### How to reach me:
