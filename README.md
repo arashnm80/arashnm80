@@ -24,8 +24,8 @@
   - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) -> [source](https://github.com/arashnm80/nm80-dictionary-bot)
 
 ### <a href="https://github.com/arashnm80#-youtube-channels"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channels" height="30" width="40" /></a> YouTube:
-- [Arashnm80](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube)
-- [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian) -> [source](https://github.com/arashnm80/youtube-persian)
+- **[English Channel](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube) (main channel)**
+- [Persian Channel](https://www.youtube.com/@Arashnm80_Persian) -> [source](https://github.com/arashnm80/youtube#persian-youtube-channel--%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
 
 ### <a href="https://github.com/arashnm80#classes"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/Google_Classroom_Logo.svg" alt="Classes" height="30" width="40" /></a> Classes:
 - [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
