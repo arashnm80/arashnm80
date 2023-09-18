@@ -31,6 +31,9 @@
 - [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
 - [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
+### Contest Wins:
+- [TON Smart Challenge #4](https://ton.org/ton-smart-challenge-4)
+
 ### Other Projects:
 - [Stock and Crypto Prices Analysis](https://github.com/arashnm80/stock-and-crypto-price-analysis)
 
