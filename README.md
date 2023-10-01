@@ -33,7 +33,7 @@
 - [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
 ### Contest Wins:
-- [TON Smart Challenge #4](https://ton.org/ton-smart-challenge-4)
+- [TON Smart Challenge #4](https://github.com/arashnm80/tsc4)
 
 ### Other Projects:
 - [Stock and Crypto Prices Analysis](https://github.com/arashnm80/stock-and-crypto-price-analysis)
