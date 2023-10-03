@@ -40,6 +40,5 @@
 
 ---
 
-### <a href="https://github.com/arashnm80#give-me-energy-with-coffee"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/Coffee_cup_icon.svg" alt="Give me energy with coffee" height="30" width="40" /></a> Give me energy with coffee😉☕:
-- [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
-- [Coffeete](https://www.coffeete.ir/Arashnm80) (IR ريال)
+### <a href="https://github.com/arashnm80#donate"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/heart.svg" alt="Give me energy with coffee" height="30" width="40" /></a> Donate:
+- [List of possible methods](https://Arashnm80.com/donate)
