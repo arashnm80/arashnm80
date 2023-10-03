@@ -38,9 +38,7 @@
 ### Other Projects:
 - [Stock and Crypto Prices Analysis](https://github.com/arashnm80/stock-and-crypto-price-analysis)
 
-### How to reach me:
-- telegram: [t.me/Arashnm80](https://t.me/Arashnm80)
-- email: Arashnm80@gmail.com
+---
 
 ### <a href="https://github.com/arashnm80#give-me-energy-with-coffee"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/Coffee_cup_icon.svg" alt="Give me energy with coffee" height="30" width="40" /></a> Give me energy with coffee😉☕:
 - [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
