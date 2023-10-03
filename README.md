@@ -5,7 +5,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashnm80)](https://github.com/arashnm80?tab=repositories)
 -->
-**Pull requests are welcome in all of my projects, in case you found an error or want to improve sth.**
+**Pull requests and contributions are welcome in all of my projects. Also I'll be glad if you give them ⭐stars⭐.**
 
 <div>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=arashnm80&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
