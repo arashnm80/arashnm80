@@ -12,6 +12,8 @@
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashnm80&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
 
+---
+
 ### <a href="https://github.com/arashnm80#telegram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram:
 - **Channels**
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
