@@ -32,7 +32,7 @@
 - [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
 - [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
-### Contest Wins:
+### <a href="https://github.com/arashnm80#contest-wins"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/cup.svg" alt="Classes" height="30" width="40" /></a> Contest Wins:
 - [TON Smart Challenge #4](https://github.com/arashnm80/tsc4)
 
 ### Other Projects:
