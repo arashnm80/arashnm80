@@ -15,7 +15,7 @@ Also I'll be honored if you give them ⭐stars⭐.**
 
 ---
 
-### <a href="https://github.com/arashnm80#telegram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram:
+### <a href="https://github.com/arashnm80#telegram"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/telegram-new.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram:
 - **Channels**
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
   - [bing wallpapers](https://t.me/Bingwalls) -> [source](https://github.com/arashnm80/bing-wallpaper)
