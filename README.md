@@ -27,7 +27,7 @@ Also I'll be honored if you give them ⭐stars⭐.**
   - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) -> [source](https://github.com/arashnm80/nm80-dictionary-bot)
   - [QR-Code For You](https://t.me/qrcode_for_you_bot) -> [source](https://github.com/arashnm80/qrcode-for-you-bot)
 
-### <a href="https://github.com/arashnm80#-youtube-channels"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channels" height="30" width="40" /></a> YouTube:
+### <a href="https://github.com/arashnm80#-youtube-channels"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/yt.svg" alt="YouTube Channels" height="30" width="40" /></a> YouTube:
 - **[English Channel](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube) (main channel)**
 - [Persian Channel](https://www.youtube.com/@Arashnm80_Persian) -> [source](https://github.com/arashnm80/youtube#persian-youtube-channel--%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
 
