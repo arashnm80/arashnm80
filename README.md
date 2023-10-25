@@ -20,7 +20,6 @@ Also I'll be honored if you give them ⭐stars⭐.**
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
   - [bing wallpapers](https://t.me/Bingwalls) -> [source](https://github.com/arashnm80/bing-wallpaper)
   - [GIF Contest Winner](https://t.me/oghlooroghloor)
-  - [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0) -> [source](https://github.com/arashnm80/spot-seek-bot)
   - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 - **Bots**
   - [Spot Seek &#124; Spotify Music Downloader](https://t.me/SpotSeekBot) -> [source](https://github.com/arashnm80/spot-seek-bot)
