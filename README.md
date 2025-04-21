@@ -18,14 +18,17 @@ Also I'll be honored if you give them ⭐stars⭐.**
 ### <a href="https://github.com/arashnm80#telegram"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/telegram-new.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram:
 - **Channels**
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
+  - [English Words & Idioms](https://t.me/English_Share)
   - [bing wallpapers](https://t.me/Bingwalls) -> [source](https://github.com/arashnm80/bing-wallpaper)
   - [GIF Contest Winner](https://t.me/oghlooroghloor)
   - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 - **Bots**
   - [Spot Seek &#124; Spotify Music Downloader](https://t.me/SpotSeekBot) -> [source](https://github.com/arashnm80/spot-seek-bot)
+  - [Your Alfred Bot](https://t.me/YourAlfredBot)
+  - [Long Caption Bot](https://t.me/LongCaptionBot) -> [source](https://github.com/arashnm80/long-caption-bot)
+  - [JSON Dump Bot](https://t.me/JSON_Dump_Bot) -> [source](https://github.com/arashnm80/json-dump-bot)
   - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) -> [source](https://github.com/arashnm80/nm80-dictionary-bot)
   - [QR-Code For You](https://t.me/qrcode_for_you_bot) -> [source](https://github.com/arashnm80/qrcode-for-you-bot)
-  - [JSON Dump Bot](https://t.me/JSON_Dump_Bot) -> [source](https://github.com/arashnm80/json-dump-bot)
 
 ### <a href="https://github.com/arashnm80#-youtube-channels"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/yt.svg" alt="YouTube Channels" height="30" width="40" /></a> YouTube:
 - **[English Channel](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube) (main channel)**
